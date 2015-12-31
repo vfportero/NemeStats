@@ -1,4 +1,4 @@
-NemeStats  [![Build status](https://ci.appveyor.com/api/projects/status/q5d26a5d8v7occ16?svg=true)](https://ci.appveyor.com/project/cracker4o/nemestats)
+NemeStats  
 ===============
 
 NemeStats.com was created as a fun and completely free website for tracking games played and won among a fairly stable group of players. Recording your games will reveal each player's Nemesis (and their Minions), will assign Champions to games, and will provide many other interesting statistics.
