@@ -185,8 +185,10 @@ build_script:
 #    - '..\Tests\**\*.Tests.dll'
 
 # to run tests from different categories as separate jobs in parallel
-#test:
-#  categories:
+test:
+  categories:
+   except:
+    - Integration
 #    - A            # A category common for all jobs
 #    - [UI]         # 1st job
 #    - [DAL, BL]    # 2nd job
